@@ -6,6 +6,15 @@ and open the template in the editor.
 -->
 
 
+
+<modelVersion>4.0.0</modelVersion>
+        <groupId>com.my.apps</groupId>
+        <artifactId>DummyHerokuApp</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <name>Dummy name</name>
+        <description>Dummy war</description>
+        <url>http://maven.apache.org</url>
+
     <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
